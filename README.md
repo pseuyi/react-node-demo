@@ -11,4 +11,4 @@ npm run build
 npm start
 ```
 
-navigate to [here](localhost:3000)
+navigate to [localhost](localhost:3000)
